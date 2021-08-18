@@ -1,2 +1,2 @@
 # OpenCV_scripts
-Repo where I learn OpenCV in Python.
+Private repo where I learn OpenCV in Python.
